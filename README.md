@@ -72,7 +72,7 @@ I'm taking an onsite course on Android App Development at Dhaka, Bangladesh (see
 
 **Resources:**
 - [Android Activity Lifecycle - Android official documentation](https://developer.android.com/guide/components/activities/activity-lifecycle.html)
-- [Activity Lifecycle - Tutorials Point](https://www.javatpoint.com/android-life-cycle-of-activity)
+- [Activity Lifecycle - Tutorials Point](https://www.tpointtech.com/android-life-cycle-of-activity)
 - [Dimension](https://developer.android.com/guide/topics/resources/more-resources.html#Dimension)
 - [Managing Screen Sizes](https://android-developers.googleblog.com/2011/07/new-tools-for-managing-screen-sizes.html)
 - [Different values folder for different screens](https://stackoverflow.com/a/32861248/6200296)
